@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/toby7002/KotlinForNukkit">
+  <a href="https://github.com/toby7002/EnoughCustomWorldWarning">
     <img src="common/src/main/resources/ecww.png" alt="Logo" width="80" height="80">
   </a>
 
