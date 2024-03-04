@@ -16,6 +16,14 @@
 
 This mod will disable the experimental world settings warning screen that appears when using custom dimension mods.
 
+# Why EnoughCustomWorldWarning
+- **_Up-to-date_** while other mods such as [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings) has stopped at 1.19.x or [Here be no Dragons!](https://www.curseforge.com/minecraft/mc-mods/here-be-no-dragons) hasn't supported 1.20.3 and later yet.
+
+# Credits
+Thanks to
+- [jaredlll08](https://github.com/jaredlll08) for a multiloader template.
+- [rdvdev2](https://github.com/rdvdev2) for DisableCustomWorldsAdvice that inspired this mod so much.
+
 # License
 
 Licensed under the [GNU General Public License v3.0](https://github.com/toby7002/EnoughCustomWorldWarning/blob/main/LICENSE) license.
