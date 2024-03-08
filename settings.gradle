@@ -23,4 +23,3 @@ plugins {
 rootProject.name = 'EnoughCustomWorldWarning'
 include("common")
 include("forge")
-include("neoforge")
